@@ -1,9 +1,9 @@
 <!-- [![xlearns's github stats](https://github-readme-stats.vercel.app/api?username=xlearns)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align=center>
 
-<img alt="Yiyang Sun" src="./assets/avatar.png" width=100 />
+<img alt="Xlearns" src="./assets/avatar.png" width=100 />
 
-# Hi, this is Yiyang Sun :wave:
+# Hi, this is Xlearns :wave:
 
 <p>
 
