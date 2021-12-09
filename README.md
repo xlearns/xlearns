@@ -68,10 +68,10 @@ I love Front End technologys. :heart:
 
 ## Projects :computer:
 
-[![miniVue](https://github.com/xlearns/miniVue)](https://github.com/xlearns/miniVue)
+[![miniVue](https://github-readme-stats.vercel.app/api/pin/?username=xlearns&repo=miniVue)](https://github.com/xlearns/miniVue)
 
 
-[![My Blog](https://github.com/xlearns/myblog)](https://github.com/xlearns/myblog)
+[![My Blog]([![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=xlearns&repo=myblog)](https://github.com/xlearns/myblog))](https://github.com/xlearns/myblog)
 
 
 
