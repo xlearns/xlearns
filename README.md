@@ -12,7 +12,7 @@
 [![Juejin](https://img.shields.io/badge/juejin-%E5%AD%99%E8%BD%B6%E6%89%AC-1e80ff?logo=bytedance)](https://juejin.cn/user/4010632618185038)
 [![Github Stars](https://img.shields.io/github/stars/syy11cn?color=faf408&label=github%20stars&logo=github)](https://github.com/syy11cn)
 
-</p> 
+</p> https://hit.yhype.me
 
 <p>
 
@@ -68,22 +68,19 @@ I love Front End technologys. :heart:
 
 ## Projects :computer:
 
-[![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=config-router)](https://github.com/syy11cn/config-router)
+[![miniVue](https://github.com/xlearns/miniVue)](https://github.com/xlearns/c)
 
-[![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=course-assistant-miniprogram-fe)](https://github.com/syy11cn/course-assistant-miniprogram-fe)
 
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=my-blog)](https://github.com/syy11cn/my-blog)
+[![My Blog](https://github.com/xlearns/myblog)](https://github.com/xlearns/myblog)
 
-[![Typecho Theme](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=18px-Typecho-Theme)](https://github.com/syy11cn/18px-Typecho-Theme)
+
 
 ## Analysis :point_down:
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlearns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syy11cn&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlearns&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://github-profile-trophy.vercel.app/?username=syy11cn&theme=flat&column=7&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=xlearns&theme=flat&column=7&margin-w=10)
 
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=57290456)
