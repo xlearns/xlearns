@@ -68,7 +68,7 @@ I love Front End technologys. :heart:
 
 ## Projects :computer:
 
-[![miniVue](https://github.com/xlearns/miniVue)](https://github.com/xlearns/c)
+[![miniVue](https://github.com/xlearns/miniVue)](https://github.com/xlearns/miniVue)
 
 
 [![My Blog](https://github.com/xlearns/myblog)](https://github.com/xlearns/myblog)
