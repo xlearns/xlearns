@@ -81,6 +81,6 @@ I love Front End technologys. :heart:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlearns&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://github-profile-trophy.vercel.app/?username=xlearns&theme=flat&column=7&margin-w=10)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=xlearns&theme=flat&column=7&margin-w=10) -->
 
 </div>
