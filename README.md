@@ -66,14 +66,6 @@ I love Front End technologys. :heart:
 
 </p>
 
-## Projects :computer:
-
-[![miniVue](https://github-readme-stats.vercel.app/api/pin/?username=xlearns&repo=miniVue)](https://github.com/xlearns/miniVue)
-
-
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=xlearns&repo=myblog)](https://github.com/xlearns/myblog)
-
-
 
 ## Analysis :point_down:
 
