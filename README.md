@@ -38,9 +38,9 @@ Hope to make more friends in open source projects. :eyes:
 ## Orientation :dart:
 
 # I love coding. :heart:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=3032FF00&multiline=true&width=435&lines=I+love+coding.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=3032FF00&multiline=true&width=435&lines=I+love+Front+End+technologys.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=3032FF00&multiline=true&width=435&lines=I+love+coding.)](https://git.io/typing-svg) ❤️
+# I love Front End technologys. ❤️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=3032FF00&multiline=true&width=435&lines=I+love+Front+End+technologys.)](https://git.io/typing-svg) ❤️
 
 <p>
 
